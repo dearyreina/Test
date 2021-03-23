@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="java">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://C:/spark-2.4.7-bin-hadoop2.6/examples/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
